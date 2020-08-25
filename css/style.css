@@ -2,3 +2,6 @@ body {
     background-image: url("../images/wall.jpg");
     background-color: #cccccc;
   }
+  #sticky-footer {
+    flex-shrink: none;
+  }
