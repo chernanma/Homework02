@@ -1,7 +1,7 @@
-# Homework02 - Responsive Portfolio
+# Responsive Portfolio
 
 The principal scope of this project is the creation of a responsive portfolio ensuring it renders well on different devices and window sizes. In this project, I have implemented bootstrap's grid system, components, and the use of Html validation to ensure the page has valid HTML code. 
-[Click here to Access Portfolio](https://chernanma.github.io/Homework02/)
+[Click here to Access Portfolio](https://chernanma.github.io/Responsive-Portfolio/)
 
 ![picture](images/index.jpg)
 
